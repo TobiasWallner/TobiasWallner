@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TobiasWallner
 - 👀 I’m interested in Systems-Programming
 - 🌱 I’m currently learning Electronics, Informationtechnology and Embedded Systems
-- 👔 I'm currently working on a new adaptive Teleskope System and a proof of concept for a new Compiler Feature
+- 👔 I'm currently working on a plotting library for c++ as well as controll systems library
 - 💞️ I’m looking to collaborate on Low Level and Systems Projects
 - 📫 How to reach me: tobias.wallner1@gmx.net
 
